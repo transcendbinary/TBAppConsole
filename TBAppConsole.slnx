@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="blogPost.cs" />
+  </Folder>
   <Project Path="TBAppConsole.csproj" />
 </Solution>
