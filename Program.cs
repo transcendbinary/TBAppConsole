@@ -9,6 +9,7 @@ versionCheck version = new versionCheck();
 bool anyMethodCalled = false;
 bool exitStatusMenu = false;
 
+Console.Clear();
 Console.WriteLine("Welcome to the Transcend Binary CLI App!");
 
 Console.Write("Loading");
