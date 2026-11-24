@@ -14,7 +14,7 @@
 - locate the built binary
 - run it with ./TBAppConsole
 
-## windows
+### windows
 
 - download and sign into [visual studio community](https://visualstudio.microsoft.com/)
 - sign into github in VS
@@ -33,7 +33,7 @@ OR
 - locate the built binary
 - run it with TBAppConsole.exe
 
-## macOS
+### macOS
 
 - install and set up git and .NET
 - clone the repo
